@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://inspiring-halva-1dfbc3.netlify.app)
+- Live Site URL: [Sunnyside landing page](https://inspiring-halva-1dfbc3.netlify.app)
 
 ## My process
 
