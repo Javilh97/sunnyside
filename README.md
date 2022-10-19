@@ -81,9 +81,11 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 [<img src="https://avatars.githubusercontent.com/u/101728364?s=400&u=45dc631ad7ca990ab69665bb5d8f511f83266cf3&v=4" width=115><br><sub>Javier Hernández</sub>](https://github.com/Javilh97)
 
-**- Website - [Add your name here](https://www.your-site.com)**
-**- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)**
-**- Twitter - [@yourusername](https://www.twitter.com/yourusername)**
+[comment]: # (- Website - [Add your name here](https://www.your-site.com))
+
+
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
