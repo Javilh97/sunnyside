@@ -79,7 +79,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 |  [<img src="https://avatars.githubusercontent.com/u/101728364?s=400&u=45dc631ad7ca990ab69665bb5d8f511f83266cf3&v=4" width=115><br><sub>Javier Hernández</sub>](https://github.com/Javilh97)  |
-| :---: | :---:
+| :---: |
 
 <!--- Website - [Add your name here](https://www.your-site.com)-->
 <!--- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)-->
