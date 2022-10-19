@@ -25,11 +25,8 @@ Users should be able to:
 
 ### Screenshot
 
-<p align="center">
   ![Mobile design](./design/Sunnyside-agency-landing-page-mobile.png)
   ![Desktop design](./design/Sunnyside-agency-landing-page-desktop.png)
-</p>
-
 
 ### Links
 
